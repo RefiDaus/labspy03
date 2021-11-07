@@ -1,4 +1,4 @@
-                                                    MODUL PRAKTIKUM 3 PERULANGAN
+                                            MODUL PRAKTIKUM 3 PERULANGAN
 
 DI BAWAH INI PROGRAM NYA : <P>
 1. latihan1.py
@@ -20,5 +20,5 @@ Codingannya ikuti gambar di bawah ini : <p>
 ![gambar 1](screenshot/ss3.png.png) <p>
 Saat program di jalankan/run user di minta memasukan jumlah bilangan yang ingin di masukan. Program akan melakukan perulangan berdasarkan jumlah bilangan tersebut.
 
-                                                    SEKIAN DARI SAYA SEMOGA BERMANFAAT
-                                                                TERIMA KASIH
+                                            SEKIAN DARI SAYA SEMOGA BERMANFAAT
+                                                        TERIMA KASIH
